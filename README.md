@@ -6,6 +6,10 @@
 
     iTerm2打开到当前目录  
 
+ - OpenAtomInFinder
+
+    Atom打开到当前目录 
+
 - OpenSublimeInFinder
 
     Sublime Text 打开到当前目录，相当于执行`subl .`，所以要先有在`.zshrc`中追加  
